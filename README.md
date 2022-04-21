@@ -31,7 +31,9 @@ mais simples até projetos com o uso de tecnologias mais completas.
   
   ## Entre em contato comigo 🙂🔥
   <div style="display: inline_block"> <br>
-   <a href="https://www.linkedin.com/in/caroline-nepomuceno/" target="_blank "> <img src=" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/caroline-nepomuceno/" target="_blank">
+   <img  align="center" height="40" width="85" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
   </div>
   
   
