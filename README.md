@@ -1,7 +1,7 @@
 ### Oii, eu sou a Caroline Nepomuceno. Muito prazer! 👋
 
 - 🌱 Sou estudante de desenvolvimento de software
-- 👯 Atualmente estudo na Trybe
+- 👯 Atualmente sou pessoa estudante da Trybe
 - 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Redux, Docker e MySQL
 
 
