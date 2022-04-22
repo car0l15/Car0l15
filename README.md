@@ -10,6 +10,7 @@ Eu sou a Carol, tenho 21 anos e sou estudante de desenvolvimento há 08 meses, s
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
 havida por conhecimento e nesse perfil você encontrará minha trajetória desde de projetos
 mais simples até projetos com o uso de tecnologias mais completas.
+Os repositórios estão organizados dos mais simples até os mais completos.
 
 <div>
   <a href="https://github.com/car0l15">
