@@ -6,7 +6,8 @@
 
 
 ## Sobre 
-Eu sou a Carol, tenho 21 anos e sou estudante de desenvolvimento há 08 meses, sempre
+Eu sou a Carol, tenho 22
+ anos e sou estudante de desenvolvimento há 08 meses, sempre
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
 ávida por conhecimento e nesse perfil você encontrará minha trajetória desde de projetos
 mais simples até projetos com o uso de tecnologias mais completas.
