@@ -2,7 +2,7 @@
 
 - 🌱 Sou estudante de desenvolvimento de software
 - 👯 Atualmente sou pessoa estudante da Trybe
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Redux, Docker e MySQL
+- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node, Heroku e TypeScript
 
 
 ## Sobre 
@@ -27,7 +27,12 @@ Os projetos encontrados aqui tem sua divisão com base em seu foco: Testes, Fron
     <img  align="center" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
+    <img align="center" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+    <img align=center height="40 width="45" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img align=center height="40 width="45" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img align=center height="40 width="45" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    
+    
 </div>
   
  <br>
