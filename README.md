@@ -11,7 +11,8 @@ Eu sou a Carol, tenho 22
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
 ávida por conhecimento e nesse perfil você encontrará minha trajetória desde de projetos
 mais simples até projetos com o uso de tecnologias mais completas.
-Os repositórios estão organizados dos mais simples até os mais completos.
+Os projetos encontrados aqui tem sua divisão com base em seu foco: Testes, Front-end e Back-end.
+
 
 <div>
   <a href="https://github.com/car0l15">
