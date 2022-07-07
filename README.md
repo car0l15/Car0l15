@@ -2,7 +2,7 @@
 
 - 🌱 Sou estudante de desenvolvimento de software
 - 👯 Atualmente sou pessoa estudante da Trybe
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node, Heroku e TypeScript
+- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node, Sequelize, Heroku e TypeScript
 
 
 ## Sobre 
@@ -31,6 +31,7 @@ Os projetos encontrados aqui tem sua divisão com base em seu foco: Testes, Fron
     <img align=center height="35" width="95" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img align=center height="35" width="95" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img align=center height="35" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align=center height="35" width="95" src=" https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
     
     
 </div>
