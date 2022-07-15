@@ -16,7 +16,7 @@ Os projetos encontrados aqui tem sua divisão com base em seu foco: Testes, Fron
 
 <div>
   <a href="https://github.com/car0l15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/>
   
   </a>
