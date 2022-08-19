@@ -2,7 +2,7 @@
 
 - 🌱 Sou estudante de desenvolvimento de software
 - 👯 Atualmente sou pessoa estudante da Trybe
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node, Sequelize, Heroku e TypeScript
+- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node.js, Sequelize, Arquitetura REST, RESTFUL, Heroku, TypeScript e MongoDB.
 
 
 ## Sobre 
