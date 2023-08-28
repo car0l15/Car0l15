@@ -1,13 +1,13 @@
 ### Oii, eu sou a Caroline Nepomuceno. Muito prazer! 👋
 
-- 🌱 Sou estudante de desenvolvimento de software
-- 👯 Atualmente sou pessoa estudante da Trybe
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, React, Hooks, Docker, MySQL, Node.js, Sequelize, Arquitetura REST, RESTFUL, Heroku, TypeScript e MongoDB.
+- 🌱 Sou desenvolvedora de software
+- 👯 Meus estudos iniciaram em 2020
+- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, C#, Python, React, Hooks, Docker, MySQL, Node, Sequelize, Arquitetura REST, RESTFUL, Heroku, TypeScript e MongoDB.
 
 
 ## Sobre 
-Eu sou a Carol, tenho 22
- anos e sou estudante de desenvolvimento há 08 meses, sempre
+Eu sou a Carol, tenho 23
+ anos e sou desenvolderoa há 02 anos, sempre
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
 ávida por conhecimento e nesse perfil você encontrará minha trajetória desde de projetos
 mais simples até projetos com o uso de tecnologias mais completas.
