@@ -1,7 +1,7 @@
 ### Oii, eu sou a Caroline Nepomuceno. Muito prazer! 👋
 
 - 🌱 Sou desenvolvedora de software
-- 👯 Meus estudos iniciaram em 2020
+- 👯 Estudante de engenharia de software
 - 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, C#, Python, React, Hooks, Docker, MySQL, Node, Sequelize, Arquitetura REST, RESTFUL, Heroku, TypeScript e MongoDB.
 
 
