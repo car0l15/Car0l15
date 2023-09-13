@@ -2,7 +2,7 @@
 
 - 🌱 Sou desenvolvedora de software
 - 👯 Estudante de engenharia de software
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, C#, Python, React, Hooks, Docker, MySQL, Node, Sequelize, Arquitetura REST, RESTFUL, Heroku, TypeScript e MongoDB.
+- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, C#, Python, React, Hooks, Docker, MySQL, Node, Sequelize, Arquitetura REST, RESTFUL, TypeScript e MongoDB.
 
 
 ## Sobre 
