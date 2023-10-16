@@ -1,17 +1,18 @@
-### Oii, eu sou a Caroline Nepomuceno. Muito prazer! 👋
+### Olá, eu sou a Caroline Nepomuceno. Muito prazer! 👋
 
-- 🌱 Sou desenvolvedora de software
-- 👯 Estudante de engenharia de software
-- 💬 Venha conversar comigo sobre HTML, CSS, JavaScript, C#, Python, React, Hooks, Docker, MySQL, Node, Sequelize, Arquitetura REST, RESTFUL, TypeScript e MongoDB.
+-  Sou desenvolvedora de software
+-  Estudante de engenharia de software
+  - Venha conversar comigo sobre C#, Python,Docker, SQL, Node, TypeScript e MongoDB.
 
 
 ## Sobre 
 Eu sou a Carol, tenho 23
  anos e sou desenvolderoa há 02 anos, sempre
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
-ávida por conhecimento e nesse perfil você encontrará minha trajetória desde de projetos
-mais simples até projetos com o uso de tecnologias mais completas.
-Os projetos encontrados aqui tem sua divisão com base em seu foco: Testes, Front-end e Back-end.
+ávida por conhecimento e nesse perfil você encontrará alguns projetos pessoais de minha trajetória. 
+Trabalhei 01 ano na XP Inc com c# e node.js, pude vivenciar o cotidiano robusto de uma equipe de tecnologia, aprendi muito e hoje 
+sigo nessa jornada de aprendizado e crescimento
+Os projetos encontrados aqui são casos de estudo. Qualquer duvida, curiosidade ou enteresse, não exite em entrar em contato.
 
 
 <div>
