@@ -7,7 +7,7 @@
 
 ## Sobre 
 Eu sou a Carol, tenho 23
- anos e sou desenvolderoa há 02 anos, sempre
+ anos e sou desenvolderoa a 02 anos, sempre
 gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
 ávida por conhecimento e nesse perfil você encontrará alguns projetos pessoais de minha trajetória. 
 Trabalhei 01 ano na XP Inc com c# e node.js, pude vivenciar o cotidiano robusto de uma equipe de tecnologia, aprendi muito e hoje 
