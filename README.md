@@ -6,13 +6,10 @@
 
 
 ## Sobre 
-Eu sou a Carol, tenho 23
- anos e sou desenvolderoa a 02 anos, sempre
-gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. Sou
-ávida por conhecimento e nesse perfil você encontrará alguns projetos pessoais de minha trajetória. 
-Trabalhei 01 ano na XP Inc com c# e node.js, pude vivenciar o cotidiano robusto de uma equipe de tecnologia, aprendi muito e hoje 
-sigo nessa jornada de aprendizado e crescimento
-Os projetos encontrados aqui são casos de estudo. Qualquer duvida, curiosidade ou enteresse, não exite em entrar em contato.
+Eu sou a Carol, tenho 23 anos e sou desenvolvedora a 02 anos, sempre gostei de tecnologia e hoje tenho o prazer de estudar diariamente sobre o que amo. 
+Sou ávida por conhecimento e nesse perfil você encontrará alguns projetos pessoais de minha trajetória. Trabalhei 01 ano na XP Inc com c# e node.js, 
+pude vivenciar o cotidiano robusto de uma equipe de tecnologia, aprendi muito e hoje sigo nessa jornada de aprendizado e crescimento 
+Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade ou interesse, não exite em entrar em contato.
 
 
 <div>
