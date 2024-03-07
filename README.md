@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=C0FF25&random=false&width=435&lines=System.out.println(%22Ol%C3%A1%2C;eu+sou+a+Carol!+%F0%9F%98%8A%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=System.out.println(%22Ol%C3%A1%2C%3Ceu+sou+a+carol+%F0%9F%98%8A%22);)](https://git.io/typing-svg)
 
 
 ### Olá, eu sou a Caroline Nepomuceno. Muito prazer! 👋
