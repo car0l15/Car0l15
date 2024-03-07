@@ -6,7 +6,7 @@
 
 -  Sou desenvolvedora de software com foco em back-end
 -  Estudante de engenharia de software
-  - Venha conversar comigo sobre tecnologias como Java, PHP, Python, C#, Docker, SQL, Node.js, TypeScript e MongoDB.
+  - Venha conversar comigo sobre tecnologias como Java, PHP, C#, Docker, SQL, TypeScript, MongoDB e etc.
 
 
 ## Sobre 
