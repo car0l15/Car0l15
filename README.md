@@ -11,14 +11,23 @@
 
 ## Sobre 
 Eu sou a Carol, tenho 23 anos e sou desenvolvedora há 2 anos. Sempre gostei de tecnologia e hoje tenho o prazer de estudar e trabalhar diariamente com o que amo. Sou ávida por conhecimento.
+
+Sou uma pessoa muito tranquila, gosto muito de ler e escrever sobre assuntos diversos. Gosto de viajar e conhecer lugares novos e sou uma grande fã dos mitos gregos.
+<br>
+Uma pequena curiosidade sobre mim é que já trabalhei como pesquisadora, focando na vida e nos escritos da autora Elisabeth Bishop.
+
 <br>
 <br>
-Atualmente, trabalho com C# e Java. 
+
+<br>
+Atualmente eu trabalho com C# e Java. 
 <br>
 <br>
-Tenho uma boa experiência no cotidiano robusto de uma equipe de tecnologia, todos os ritos, entregas e metas que nos são esperados. Aprendi muito até aqui, mas continuo nessa jornada de aprendizado e crescimento.
+Tenho uma boa experiência no cotidiano robusto de uma equipe de tecnologia, todos os ritos, entregas e metas que nos são esperados. Aprendi muito até aqui, mas continuo empolgada com essa jornada de aprendizado e crescimento.
 <br>
 Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade ou interesse, não hesite em entrar em contato e bater um papo sobre projetos, linguagens e tecnologias.
+
+<p> </p>
 
 <div>
   <a href="https://github.com/car0l15">
@@ -26,7 +35,6 @@ Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=car0l15&theme=dracula" alt="car0l15" />
 
-  
   </a>
 </div>
   
