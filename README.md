@@ -15,10 +15,7 @@ Eu sou a Carol, tenho 23 anos e sou desenvolvedora há 2 anos. Sempre gostei de 
 Sou uma pessoa muito tranquila, gosto muito de ler e escrever sobre assuntos diversos. Gosto de viajar e conhecer lugares novos e sou uma grande fã dos mitos gregos.
 <br>
 Uma pequena curiosidade sobre mim é que já trabalhei como pesquisadora, focando na vida e nos escritos da autora Elisabeth Bishop.
-
 <br>
-<br>
-
 <br>
 Atualmente eu trabalho com C# e Java. 
 <br>
