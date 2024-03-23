@@ -59,6 +59,7 @@ Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade
    <img  align="center" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
   </div>
-  
-  
+
+  <p> teste
+ <p>  
   
