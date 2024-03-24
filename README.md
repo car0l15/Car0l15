@@ -37,7 +37,6 @@ Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade
   
   <div style="display: inline_block"><br>
     <img  align="center" height=65 width=65 src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
-    <img  align="center" height=45 width=45 src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="spring boot image"/>
     <img  align="center" height=65 width=65 src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"/>
     <img  align="center" height=35 width=95 src="https://camo.githubusercontent.com/9ba3764ef459d32f3bd67307cdecb3dfb9970133c87eed873a5f8ac0a98e8f00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465 " alt="spring image"/>
     <img  align="center" height=45 width=45 src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
