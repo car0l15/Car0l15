@@ -12,7 +12,7 @@
 ## Sobre 
 Eu sou a Carol, tenho 23 anos e sou desenvolvedora há 2 anos. Sempre gostei de tecnologia e hoje tenho o prazer de estudar e trabalhar diariamente com o que amo. Sou ávida por conhecimento.
 
-Sou uma pessoa muito tranquila, gosto muito de ler e escrever sobre assuntos diversos. Gosto de viajar e conhecer lugares novos e sou uma grande fã dos mitos gregos.
+Sou uma pessoa muito tranquila. Gosto muito de ler e escrever sobre assuntos diversos. Adoro viajar e conhecer lugares novos. Sou uma grande fã de esportes; atualmente, pratico crossfit e jogo futebol regularmente.
 <br>
 Uma pequena curiosidade sobre mim é que já trabalhei como pesquisadora, focando na vida e nos escritos da autora Elisabeth Bishop.
 <br>
@@ -29,7 +29,7 @@ Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade
 <div>
   <a href="https://github.com/car0l15">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" />  -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=car0l15&theme=dracula" alt="car0l15" />
 
   </a>
