@@ -10,7 +10,7 @@
 
 
 ## Sobre 
-Eu sou a Carol, tenho 23 anos e sou desenvolvedora há 2 anos. Sempre gostei de tecnologia e hoje tenho o prazer de estudar e trabalhar diariamente com o que amo. Sou ávida por conhecimento.
+Eu sou a Carol, tenho 23 anos e sou desenvolvedora há 2 anos. Sempre gostei de tecnologia e hoje tenho o prazer de estudar e trabalhar diariamente com o que amo. Sou ávida por conhecimento e muito determinada em meus objetivos.
 
 Sou uma pessoa muito tranquila. Gosto muito de ler e escrever sobre assuntos diversos. Adoro viajar e conhecer lugares novos. Sou uma grande fã de esportes; atualmente, pratico crossfit e jogo futebol regularmente.
 <br>
