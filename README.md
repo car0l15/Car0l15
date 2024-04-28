@@ -28,7 +28,7 @@ Os projetos encontrados aqui são casos de estudo. Qualquer dúvida, curiosidade
 
 <div>
   <a href="https://github.com/car0l15">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" />  -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=car0l15&theme=dracula" alt="car0l15" />
 
